@@ -1,0 +1,2 @@
+PKG_CFLAGS =-Wall -pedantic
+PKG_CXXFLAGS =-Wall -pedantic

@@ -1,0 +1,5 @@
+useDynLib(BMN)
+export(BMNExact, BMNExact.single)
+export(BMNPseudo, BMNPseudo.single)
+export(BMNSamples)
+export(BMNJT)
