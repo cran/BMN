@@ -1,4 +1,3 @@
-#include <stdbool.h>
 #include <iostream>
 #include <R.h>
 #include <Rinternals.h>
